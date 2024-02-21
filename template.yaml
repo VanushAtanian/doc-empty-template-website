@@ -16,7 +16,7 @@ metadata:
       type: admin-dashboard
 
 spec:
-  type: basis
+  type: website
   lifecycle: production
   owner: artist-relations-team
   system: public-websites
