@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 
 metadata:
-  name: doc-basis-template
+  name: doc-website-template
   title: A More Human-Readable Title
   description: This template does nothing and has no usage but being example in the documentation.
   tags:
